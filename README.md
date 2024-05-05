@@ -17,6 +17,8 @@ To deploy this project run
 
 5.) Type `yarn`
 
-6.) Type `yarn dev`
+6.) Wait for `installation`
 
-7.) Open browser, type in `http://localhost:5173/`
+7.) Type `yarn dev`
+
+8.) Open browser, type in `http://localhost:5173/`
